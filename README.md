@@ -1,4 +1,4 @@
-<h2 align="left">HELLO THERE 😎! <br>I go by Prithwish Chakraborty and I'm a gamer and a developer, determined to make a mark !</h2>
+<h2 align="left">HELLO THERE 😎! <br>I go by Prithwish and I'm a gamer and a developer, determined to make a mark !</h2>
 
 ###
 
