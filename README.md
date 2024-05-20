@@ -63,8 +63,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LORDPRITHWISH/LORDPRITHWISH/output/snake.svg" alt="Snake animation" />
-
 ###
