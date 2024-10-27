@@ -11,53 +11,52 @@
   <img src="https://streak-stats.demolab.com?user=LORDPRITHWISH&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LORDPRITHWISH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&custom_title=Fueled%20By" height="200" alt="languages graph"  />
 </div>
+<br clear="both">
 
 ###
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LORDPRITHWISH&radius=16&theme=redical&area=true&order=5&custom_title=My%20Radicality" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
-
 <br clear="both">
+
 <br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/prithwishchakraborty05/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/PRITHWISHX" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="49" height="35" alt="twitter logo"  />
   </a>
   <a href="http://discordapp.com/users/prithwish.ck" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@darkhevenscall" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="49" height="35" alt="youtube logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=prithwishchakraborty05@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100053508255608" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="49" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/darknight999z/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="35" alt="instagram logo"  />
   </a>
   <a href="https://t.me/+5Mfms8TBKhcyN2M9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="49" height="35" alt="telegram logo"  />
   </a>
 </div>
 
 ###
 
+###
 <br clear="both">
 
 <img align="right" height="150" src="https://i.postimg.cc/xTt96BX4/83764466scifi-animated-gif-8.gif"  />
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="34" alt="nextjs logo"  />
@@ -70,7 +69,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="34" alt="python logo"  />
 </div>
-
 
 
 ###
@@ -107,13 +105,15 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/LORDPRITHWISH/count.svg?"  />
+  <img align="center" src="https://profile-counter.glitch.me/LORDPRITHWISH/count.svg?"  />
+  
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LORDPRITHWISH.LORDPRITHWISH&"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/6k3kfk6b64re2onb2d8pa9cfo">
