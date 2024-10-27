@@ -94,7 +94,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LORDPRITHWISH/LORDPRITHWISH/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LORDPRITHWISH/LORDPRITHWISH/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
 ###
 
