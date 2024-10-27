@@ -1,38 +1,52 @@
-name: Generate Snake Game
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+name: Generate Snake
+
+# Controls when the action will run. This action runs every 6 hours.
 
 on:
-  # Run the workflow whenever a commit is pushed to your repo
-  push:
-    branches:
-      - master  # Change to 'main' if your default branch is 'main'
-  # Also run it every day at midnight
   schedule:
-    - cron: "0 0 * * *"
+      # every 6 hours
+    - cron: "0 */6 * * *"
 
+# This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+
+# The sequence of runs in this workflow:
 jobs:
-  generate:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout
-        uses: actions/checkout@v2
 
-      # Generates the snake game from a GitHub user activity graph
-      - name: Generate Snake Game
-        uses: Platane/snk@v2
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v3
+
+    # Generates the snake  
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
-          # github user name
-          github_user_name: YOUR_GITHUB_USERNAME
-          # optionnal: display the generated output as a svg instead of a gif
-          # gif_out_path: "output/github-contribution-grid-snake.gif"
-          svg_out_path: "output/github-contribution-grid-snake.svg"
+          github_user_name: ${{ github.repository_owner }}
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          outputs: |
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - name: Show build status
+        run: git status
 
-      # Push the generated image to the repository
-      - name: Push Snake Game
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Generate snake animation"
-          git push
+      - name: Push new files to output branch 
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake animations
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
