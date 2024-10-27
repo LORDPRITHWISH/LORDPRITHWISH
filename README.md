@@ -7,10 +7,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LORDPRITHWISH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&custom_title=Fueled%20By" height="190" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LORDPRITHWISH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=My%20Being" height="190" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LORDPRITHWISH&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LORDPRITHWISH&custom_title=My%20Actions&theme=redical&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LORDPRITHWISH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=My%20Being" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LORDPRITHWISH&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LORDPRITHWISH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&custom_title=Fueled%20By" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LORDPRITHWISH&radius=16&theme=redical&area=true&order=5&custom_title=My%20Radicality" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -62,10 +67,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.postimg.cc/xTt96BX4/83764466scifi-animated-gif-8.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -92,6 +93,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.postimg.cc/xTt96BX4/83764466scifi-animated-gif-8.gif"  />
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LORDPRITHWISH/LORDPRITHWISH/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
@@ -102,6 +107,14 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/LORDPRITHWISH/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6k3kfk6b64re2onb2d8pa9cfo">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6k3kfk6b64re2onb2d8pa9cfo&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
