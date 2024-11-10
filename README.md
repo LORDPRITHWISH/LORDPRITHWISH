@@ -31,7 +31,7 @@
   <a href="https://x.com/PRITHWISHX" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
   </a>
-  <a href="http://discordapp.com/users/prithwish.ck" target="_blank">
+  <a href="https://discord.gg/UB3avqAH" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@darkhevenscall" target="_blank">
