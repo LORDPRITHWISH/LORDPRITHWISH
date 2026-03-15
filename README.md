@@ -7,26 +7,25 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://darkstats.vercel.app/api?username=LORDPRITHWISH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=My%20Being" height="145" />
+  <img src="https://darkstats.vercel.app/api?username=LORDPRITHWISH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=My%20Being" height="160" />
 
-  <img src="https://streak-stats.demolab.com?user=LORDPRITHWISH&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="145" />
 
-  <img src="https://darkstats.vercel.app/api/top-langs?username=LORDPRITHWISH&locale=en&hide_title=false&layout=compact&langs_count=5&theme=radical&hide_border=true&custom_title=⚡%20Fueled%20By%20⚓" height="145" />
+  <img src="https://darkstats.vercel.app/api/top-langs?username=LORDPRITHWISH&locale=en&hide_title=false&layout=compact&langs_count=5&theme=radical&hide_border=true&custom_title=⚡%20Fueled%20By%20⚓" height="160" />
 </div>
-<br clear="both">
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LORDPRITHWISH&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="180" />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LORDPRITHWISH&radius=16&theme=redical&area=true&order=5&custom_title=My%20Radicality" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LORDPRITHWISH&radius=16&theme=redical&area=true&order=8&custom_title=My%20Radicality" height="200" alt="activity-graph graph"  />
 </div>
 
-###
-<br clear="both">
 
-<br clear="both">
-
-###
 
 <div align="center">
   <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
